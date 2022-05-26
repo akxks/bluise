@@ -35,3 +35,7 @@ p {
   opacity: 0;
   transform: translate(-30px, 0);
 }
+
+.invert-footer-color{
+  filter: invert(100%);
+}
