@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Adrian K",
+  "shortName": "Adrian",
+  "description": "A biography site for Adrian Koszpek",
+  "themeColor": "#4d09eb",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }

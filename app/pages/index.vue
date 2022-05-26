@@ -12,7 +12,7 @@
             @submit.prevent="handleSubmit"
             name="signups"
             netlify
-            class="flex items-center border-b border-b-2 border-blue-400 py-2"
+            class="flex items-center border-b border-b-2 py-2"
           >
             <input
               ref="emailInput"
@@ -25,7 +25,7 @@
             />
 
             <button
-              class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
+              class="flex-shrink-0 bg-purple-500 hover:bg-purple-700 border-purple-500 hover:border-purple-700 text-sm border-4 text-white py-1 px-2 rounded"
               type="submit"
             >
               Sign Up
@@ -38,7 +38,7 @@
           alt="Hero"
           class="rounded"
           src="images/uploads/home.png"
-          width="100"
+          width="300"
         />
       </div>
     </div>
