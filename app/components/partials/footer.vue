@@ -1,8 +1,6 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
 
-    <p> © Adrian Koszpek 2022 </p>
-
     <br>
 
     <br>

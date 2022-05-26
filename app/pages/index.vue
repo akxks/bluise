@@ -36,7 +36,7 @@
       <div class="flex flex-col w-full xl:w-2/5" style="">
         <img
           alt="Hero"
-          class="rounded"
+          class="rounded hidePhone"
           src="images/uploads/home.png"
           width="244"
         />

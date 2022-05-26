@@ -40,3 +40,12 @@ p {
   -webkit-filter: invert(100%);
   filter: invert(100%);
 }
+
+@media screen and (max-width: 600px) {
+  .hidePhone {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    display: none;
+  }
+}
