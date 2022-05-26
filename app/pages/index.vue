@@ -33,7 +33,7 @@
           </form>
         </div>
       </div>
-      <div class="flex flex-col w-full xl:w-2/5" style="margin-left:50px;">
+      <div class="flex flex-col w-full xl:w-2/5" style="">
         <img
           alt="Hero"
           class="rounded"
