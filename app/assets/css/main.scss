@@ -11,9 +11,13 @@ body {
   min-height: 100vh;
 }
 
+p {
+  font-size: 30px;
+}
+
 .page-enter-active,
 .page-leave-active {
-  transition: opacity 0.5s;
+  transition: opacity 0.2s;
 }
 .page-enter,
 .page-leave-active {
