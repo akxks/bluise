@@ -38,6 +38,7 @@
           alt="Hero"
           class="rounded"
           src="images/uploads/home.png"
+          width="100"
         />
       </div>
     </div>
