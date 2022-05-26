@@ -1,5 +1,12 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
+
+    <p> © Adrian Koszpek 2022 </p>
+
+    <br>
+
+    <br>
+
     <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://github.com/akxks">
         <svg
