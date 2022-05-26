@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Adrian",
-  "welcomeText": "# Hi, my name is Adrian \n\n I am a Business student, I like to also code in my free time and I am also a copywriter. Learn more about what I do on this personal site of mine 😀  \n\n\n\n\n\nSign up to my newsletter below",
+  "welcomeText": "# Hi, my name is Adrian \n\n I am a Business student, I like to also code in my free time and I am also a copywriter. \n\nLearn more about what I do on this personal site of mine 😀  \n\n\n\n\n\nSign up to my newsletter below",
   "logo": "/images/uploads/logo.png",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#4d09eb",
+  "loadingColor": "#3508c9",
   "seoDescription": "Adrian Koszpek: a successful entrepreneur",
   "seoMetaImage": ""
 }

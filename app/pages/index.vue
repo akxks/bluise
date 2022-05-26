@@ -38,7 +38,7 @@
           alt="Hero"
           class="rounded"
           src="images/uploads/home.png"
-          width="300"
+          width="266"
         />
       </div>
     </div>
